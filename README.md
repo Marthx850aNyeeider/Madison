@@ -2,3 +2,4 @@
 User session tracking
 Frontend rendering update
 Data compression strategy
+API rate limit testing
