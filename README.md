@@ -6,3 +6,4 @@ API rate limit testing
 Cloud monitoring setup
 Feature toggle strategy
 Database replication log
+Security audit findings
